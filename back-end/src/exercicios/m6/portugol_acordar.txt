@@ -1,0 +1,35 @@
+Acordar:
+
+1 - Abrir os olhos
+2 - Levantar o dorso (sentar)
+3 - Sair da cama
+4 - Calçar o chinelo
+5 - Caminhar até o banheiro
+6 - Se estiver vazio, entrar:
+	6.1 - Entrar e fechar a porta
+	6.2 - Pegar escova de dente
+	6.3 - Pegar creme dental
+	6.4 - Aplicar creme dental na escova
+	6.5 - Escovar os dentes
+	6.6 - Enxaguar a boca
+	6.7 - Lavar a escova de dentes
+	6.8 - Secar a boca
+	6.9 - Sair do banheiro
+	6.9.1 - Pular para passo 8
+7 - Se o banheiro estiver ocupado, aguardar até que esteja vazio e executar o passo 6
+8 - Caminhar até a cozinha
+9 - Verificar se tem café no bule
+10 - Se tiver café:
+	10.1 - Caminhar até o armario
+	10.2 - Abrir
+	10.3 - Pegar uma xicara
+	10.4 - Voltar até o bule de café
+	10.5 - Servir Café
+	10.6 - Ir para o passo 12
+11 - Se não tiver café, seguir próximo passo
+12 - Caminhar até o quarto
+13 - puxar a caidera da mesa
+14 - sentar
+15 - ligar o computador
+16 - Começar o dia de trabalho
+17 - fim
