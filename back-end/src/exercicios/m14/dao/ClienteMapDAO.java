@@ -1,4 +1,6 @@
-package exercicios.m14;
+package exercicios.m14.dao;
+
+import exercicios.m14.domain.Cliente;
 
 import java.util.*;
 

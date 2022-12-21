@@ -1,8 +1,9 @@
-package exercicios.m14;
+package exercicios.m14.dao;
+
+import exercicios.m14.domain.Cliente;
 
 import java.util.Collection;
 import java.util.HashSet;
-import java.util.List;
 import java.util.Set;
 
 public class ClienteSetDAO implements IClienteDAO {

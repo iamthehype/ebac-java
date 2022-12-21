@@ -1,5 +1,9 @@
 package exercicios.m14;
 
+import exercicios.m14.dao.ClienteSetDAO;
+import exercicios.m14.dao.IClienteDAO;
+import exercicios.m14.domain.Cliente;
+
 import javax.swing.*;
 
 public class App {

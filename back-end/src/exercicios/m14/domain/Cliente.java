@@ -1,4 +1,4 @@
-package exercicios.m14;
+package exercicios.m14.domain;
 
 import java.util.Objects;
 
